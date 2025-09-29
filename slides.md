@@ -271,7 +271,7 @@ It's nice to see how these servo motors work, but this application is unrealisti
 
 - Blocking Delays: Can't do anything else because we need to send a constant pulse.
 - Pulse Range: Different servo motors have different ranges. We are assuming they are all the same.
-- Software Timing: Delays are software-timed, meaning they are not as percise as hardware. This can lead to various jittering issues.
+- Software Timing: Delays are software-timed, meaning they are not as precise as hardware. This can lead to various jittering issues.
 
 ### So, we use libraries!
 
