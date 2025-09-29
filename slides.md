@@ -285,3 +285,4 @@ It's nice to see how these servo motors work, but this application is unrealisti
 - C++ Programming Language: https://www.learncpp.com/
 - The C Programming Language by Brian Kernighan and Dennis Ritchie: https://en.wikipedia.org/wiki/The_C_Programming_Language
 - Purchase the Arduino Uno R4 Wifi (US Store): https://store-usa.arduino.cc/products/uno-r4-wifi
+- Purchase the Servo Motors (Amazon): https://a.co/d/dfc0VCw
